@@ -1,1 +1,12 @@
+[theme]
+primaryColor = "#4CAF50"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F5F5"
+textColor = "#000000"
+font = "sans serif"
 
+[server]
+enableXsrfProtection = false
+
+[general]
+email = "1000chest32@mail.ru"
